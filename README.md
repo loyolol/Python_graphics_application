@@ -54,7 +54,7 @@ student_management/
 
 ### 1. Клонирование репозитория
 
-git clone https://github.com/your-username/nkpiit-student-management.git
+git clone https://github.com/loyolol/Python_graphics_application.git
 cd nkpiit-student-management
 
 ### 2. Установка зависимостей
